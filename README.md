@@ -13,7 +13,7 @@ It includes fields for First Name, Username, Password, Confirm Password, and a C
 - signup.css → Styling for the form
 
 ## 📸 Output
- https://github.com/sarala-devi8142/sign-up.git
+signup output.png
 
 
 ## LinkedIn : https://www.linkedin.com/in/sarala-madugundu/
