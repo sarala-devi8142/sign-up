@@ -15,7 +15,7 @@ It includes fields for First Name, Username, Password, Confirm Password, and a C
 ## 📸 Output
 signup output.png
 
-## LinkedIn : https://www.linkedin.com/in/sarala-madugundu?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BT0smwSYfS9GOGcTLBigeTg%3D%3D
+## LinkedIn : https://www.linkedin.com/in/sarala-madugundu/
 
 ## facebook : https://www.facebook.com/share/17NoGX8nbe/
 
