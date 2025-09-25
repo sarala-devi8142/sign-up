@@ -12,4 +12,7 @@ It includes fields for First Name, Username, Password, Confirm Password, and a C
 - index.html → Main file with the form
 - signup.css → Styling for the form
 
+## 📸 Output
+signup output.png
+
 
